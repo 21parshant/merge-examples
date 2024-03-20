@@ -4,4 +4,7 @@ p{
 button{
     box-shadow: none;
 }
+body{
+    background-color: none;
+}
 
